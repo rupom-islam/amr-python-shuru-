@@ -1,51 +1,23 @@
-# Python Learning Journey
+# Python Programming Journey
 
-A comprehensive log of my progress, exercises, and projects as I master the Python programming language. This repository serves as a personal archive and a roadmap of my technical growth.
+This repository is a collection of my code, scripts, and exercises developed while learning Python. It serves as a centralized place to document my progress, problem-solving approaches, and hands-on practice.
 
----
+## Repository Contents
 
-## Objectives
-* Establish a solid foundation in core Python syntax and logic.
-* Document daily coding progress and problem-solving approaches.
-* Build a portfolio of functional scripts and applications.
-* Implement best practices in clean coding and documentation.
+* **Basics:** Fundamental syntax, data types, and control structures.
+* **Exercises:** Solutions to various coding challenges and logic problems.
+* **Small Projects:** Practical applications and functional scripts.
+* **Modules:** Exploration of Python's standard and external libraries.
 
-## Roadmap
+## Purpose
 
-### Phase 1: Fundamentals
-* Variables, Data Types, and Operators
-* Control Flow (If-Else, Loops)
-* Functions and Scope
-* List Comprehensions and Dictionaries
+The goal of this repository is to track my growth as a programmer and maintain a reference for the concepts I have mastered. Each directory contains code examples that reflect different stages of my learning process.
 
-### Phase 2: Intermediate Concepts
-* File I/O Operations
-* Exception Handling
-* Modules and Packages
-* Functional Programming (Lambda, Map, Filter)
+## How to Navigate
 
-### Phase 3: Object-Oriented Programming (OOP)
-* Classes and Objects
-* Inheritance and Polymorphism
-* Encapsulation and Abstraction
-
-### Phase 4: Advanced Topics & Libraries
-* Decorators and Generators
-* Working with APIs (Requests)
-* Data Analysis (Pandas, NumPy)
-* Database Integration (SQLite/PostgreSQL)
-
-## Project Directory
-| Project Name | Description | Status |
-| :--- | :--- | :--- |
-| Basic Scripts | Collection of introductory exercises | Completed |
-| Calculator App | A simple CLI-based arithmetic tool | In Progress |
-| Web Scraper | Data extraction from static websites | Pending |
-
-## Resources Used
-* Official Python Documentation
-* Standard Library References
-* Technical Tutorials and Open Source Projects
+1.  Browse through the folders to find specific topics.
+2.  Each script is self-contained with comments explaining the logic.
+3.  Feel free to explore the commit history to see how the code has evolved.
 
 ---
-Last Updated: March 2026
+*Maintained by [Rupom Islam]*
