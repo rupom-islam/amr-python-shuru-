@@ -20,4 +20,4 @@ The goal of this repository is to track my growth as a programmer and maintain a
 3.  Feel free to explore the commit history to see how the code has evolved.
 
 ---
-*Maintained by [Rupom Islam]*
+*Maintained by Rupom Islam*
