@@ -73,6 +73,16 @@ for u in range(100):
 for t in range(500):
     print("eyanur")
 
+bettey = 20
+if 19<= bettey:
+    print("bettey full")
+else:
+    print("bettey low")
+ssc = 17
+if 16 <= ssc:
+    print("tumi ssc ditay parbay")
+else:
+    print("tumi ssc ditay parbay na")
 
 for q in range(1000):
     print("nifad")
