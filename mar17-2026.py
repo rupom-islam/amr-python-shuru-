@@ -86,3 +86,17 @@ else:
 
 for q in range(1000):
     print("nifad")
+for r in range(100):
+    print("rupom")
+for w in range(100):
+    print("nifad")
+u = ["rupom","nifad","eyanur"]
+for i in u:
+    print(i)
+school = 3
+if 4 <= school:
+    print("tumi school jity parby")
+else:
+    print("tumi school jity parby")
+
+
