@@ -60,4 +60,19 @@ m =["b","n","m"]
 for o in m:
     print(o)
 
+for e in range(101):
+    print(e)
+r = ["rupom","nifad","eyanur"]
+for e in r:
+    print(e)
 
+for u in range(100):
+    print("rupom")
+
+
+for t in range(500):
+    print("eyanur")
+
+
+for q in range(1000):
+    print("nifad")
